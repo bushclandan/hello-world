@@ -1,2 +1,2 @@
 # hello-world
-tutorial
+this is a git tutorial repository for learning git
